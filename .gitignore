@@ -1,0 +1,3 @@
+# Ignore temporary .attach_pid files
+.attach_pid*
+
