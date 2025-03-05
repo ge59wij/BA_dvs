@@ -1,3 +1,8 @@
-# Ignore temporary .attach_pid files
+# Ignore __pycache__ folders
+__pycache__/
+*/__pycache__/
+
+# Ignore .pyc files
+*.pyc# Ignore temporary .attach_pid files
 .attach_pid*
 
